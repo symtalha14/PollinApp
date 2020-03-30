@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo</item>
+        <item>@font/mukta_vaani</item>
+        <item>@font/mukta_vaani_extrabold</item>
+        <item>@font/mukta_vaani_semibold</item>
+        <item>@font/quicksand_medium</item>
+    </array>
+</resources>
